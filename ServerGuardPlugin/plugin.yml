@@ -1,0 +1,7 @@
+name: ServerGuardPlugin
+version: 1.0
+main: org.flex.ServerGuardPlugin
+api-version: 1.20
+commands:
+  sg:
+    description: Main command
